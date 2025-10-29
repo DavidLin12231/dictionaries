@@ -1,0 +1,3 @@
+Doe, John, 1-384-267-5093, john.doe@gmail.com, Chef
+Roe, Richard, 1-942-731-0122, richard.roe@gmail.com, Software Engineer
+Lime, Harry, 1-493-482-1234, harry.lime@widha.com, Plumber
